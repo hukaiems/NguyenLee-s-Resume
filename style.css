@@ -1,0 +1,19 @@
+.sigmar-regular {
+    font-family: "Sigmar", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    letter-spacing: 2px;
+  }
+
+.programmer{
+    text-decoration: underline;
+    text-decoration-color: #00d4ff;
+}
+
+.Instagram{
+  color: pink;
+}
+
+.Github{
+  color: black;
+}
